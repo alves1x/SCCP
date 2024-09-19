@@ -9,7 +9,7 @@ let dados = [
         titulo: "Yuri Alberto",
         descricao: "Pos: Atacante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Yuri+Alberto",
-        tags: "yure artilheiro centroavante ataque brasil brasileiro"
+        tags: "yure artilheiro centroavante ataque atacante brasil brasileiro"
     },
     {
         titulo: "Rodrigo Garro",
@@ -21,13 +21,13 @@ let dados = [
         titulo: "Memphis Depay",
         descricao: "Pos: Atacante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Memphis",
-        tags: "holandes holandês holanda centroavante"
+        tags: "holandes holandês holanda atacante centroavante"
     },
     {
         titulo: "Igor Coronado",
         descricao: "Pos: Meia",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Igor+Coronado",
-        tags: "meio campista central centro"
+        tags: "meio campista meia central centro"
     },
     {
         titulo: "Fagner",
@@ -40,13 +40,13 @@ let dados = [
         titulo: "Maycon",
         descricao: "Pos: Volante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Maycon",
-        tags: "maycon volante corinthians forte marcação"
+        tags: "maycon volante corinthians meia forte marcação"
     },      
     {
         titulo: "André Ramalho",
-        descricao: "Pos: Volante",
+        descricao: "Pos: Zagueiro",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/André+Ramalho",
-        tags: "andre ramalho volante corinthians experiente"
+        tags: "andre ramalho zagueiro corinthians experiente"
     },
     {
         titulo: "Cacá",
@@ -58,7 +58,7 @@ let dados = [
         titulo: "Félix Torres",
         descricao: "Pos: Zagueiro",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Félix+Torres",
-        tags: "felix torres zagueiro equatoriano equador forte"
+        tags: "felix torres zagueiro equatoriano equador forte corinthians"
     },
     {
         titulo: "Matheus Bidu",
@@ -88,31 +88,31 @@ let dados = [
         titulo: "José Martínez",
         descricao: "Pos: Volante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/José+Martínez",
-        tags: "jose martinez volante venezuela venezuelano"
+        tags: "jose martinez volante venezuela meia venezuelano corinthians"
     },
     {
         titulo: "André Carrillo",
-        descricao: "Pos: Atacante",
+        descricao: "Pos: Meia",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/André+Carrillo",
-        tags: "andre carrillo atacante ponta peruano habilidoso"
+        tags: "andre carrillo meia meio campo atacante ponta peruano habilidoso corinthians"
     },
     {
         titulo: "Alex Santana",
         descricao: "Pos: Meia",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Alex+Santana",
-        tags: "alex santana meia corinthians"
+        tags: "alex santana meia meio campo corinthians"
     },
     {
         titulo: "Ryan",
         descricao: "Pos: Volante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Ryan",
-        tags: " ryan volante corinthians jovem"
+        tags: " ryan volante corinthians meia jovem"
     },
     {
         titulo: "Raniele",
         descricao: "Pos: Volante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Raniele",
-        tags: "raniele volante corinthians base"
+        tags: "raniele volante corinthians meia base"
     },
     {
         titulo: "Pedro Henrique",
@@ -136,12 +136,12 @@ let dados = [
         titulo: "Héctor Hernández",
         descricao: "Pos: Atacante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/H%C3%A9ctor+Hern%C3%A1ndez",
-        tags: "hector hernandez atacante espanhol espanha"
+        tags: "hector hernandez atacante espanhol espanha corinthians"
     },
     {
         titulo: "Talles Magno",
         descricao: "Pos: Atacante",
         link: "https://www.corinthians.com.br/futebol/profissional/elenco/Talles+Magno",
-        tags: " ponta atacante jovem promissor"
+        tags: " ponta atacante jovem promissor corinthians"
     }
 ];
